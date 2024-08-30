@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-augusto-931a21268)
 
 
-#### Tecnologias que utilizo! 
+#### Tecnologias 
 
 <div style="display: inline_block">
  <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black" alt="java" title="csharp" >
