@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá! Eu sou o Paulo Sousa.
+#### Sou Desenvolvedor backEnd! 
 
-<!--
-**PAULOafs/PAULOafs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-augusto-931a21268)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tecnologias que utilizo! 
+
+<div style="display: inline_block">
+ <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black" alt="java" title="csharp" >
+ <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=black" alt="dotnet" title="dotnet" >
+ <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" alt="java" title="java" >
+ <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black" alt="java" title="spring" >
+
+</div> <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAULOafs&layout=compact&locale=pt-BR)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+ 
