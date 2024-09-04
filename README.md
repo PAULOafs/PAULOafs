@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Paulo. 
-
-  <pre>
-     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-augusto-931a21268)
-  </pre>
+     '[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-augusto-931a21268)'
 
 #### Tecnologias 
 
