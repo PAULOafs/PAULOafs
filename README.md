@@ -1,6 +1,6 @@
-### Olá! Eu sou o Paulo. 
+### Olá eu sou o Paulo. 
 
-#### Tecnologias 
+#### Tecnologias que utilizo
 
 <div style="display: inline_block">
  <pre>
