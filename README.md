@@ -1,4 +1,3 @@
-### Olá eu sou o Paulo. 
 
 #### Tecnologias que utilizo
 
