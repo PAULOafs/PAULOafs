@@ -1,5 +1,5 @@
 
-#### Tecnologias que utilizo
+#### <div align="center">Tecnologias que utilizo</div>
 
 <div style="display: inline_block">
  <pre>
